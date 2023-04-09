@@ -125,7 +125,7 @@ init_graph["B"]["D"] = 1
 init_graph["C"]["D"] = 2
 init_graph["C"]["E"] = 2
 init_graph["D"]["F"] = 2
-init_graph["E"]["F"] = 2
+init_graph["E"]["F"] = 5
 
 
 print('''\n
